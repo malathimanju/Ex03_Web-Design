@@ -160,7 +160,8 @@
 
 ## OUTPUT
 ![EX 3](https://github.com/malathimanju/Ex03_Web-Design/assets/165985843/3555caa6-9548-4a02-938a-4037a22b2d99)
-![EX 3](https://github.com/malathimanju/Ex03_Web-Design/assets/165985843/e515c670-a46a-4b41-b4a8-8b56e7187320)
+![EX 3 2](https://github.com/malathimanju/Ex03_Web-Design/assets/165985843/63ceffd1-e822-40a0-bdfc-93dce1849700)
+
 
 
 
